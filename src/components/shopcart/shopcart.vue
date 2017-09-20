@@ -14,15 +14,6 @@
       <div class="content-right" @click.stop.prevent="pay">
         <div class="pay" :class="payClass">
           {{payDesc}}
-
-
-
-
-
-
-
-
-
         </div>
       </div>
     </div>
